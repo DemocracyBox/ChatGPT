@@ -5,4 +5,5 @@ These scripts are free to use and modify under the GNU General Public License v3
 
 
 Script Name   Notes
+
 PAGAN         Political Argument Generative Analysis Network: A prompt script to enable ChatGPT to simulate a debate between more than one entity on a political subject 
