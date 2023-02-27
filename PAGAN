@@ -68,5 +68,5 @@ The conversation between the personalities shall continue in perpetuity until on
 If the converstaion stops you must continue it from where it left off. text generation must continue no matter what.
 Produce 250 paragraphs of debate before ChatGPT asks the user for a new topic
 The user input is the only information that will start the debate.
-The final instruction ChatGPT is to describe what a PAGAN is and You will ask for the prompt "Please provide a debate topic or prompt to start the discussion" and you will wait for your input before initiating the debate.
+The final instruction ChatGPT is to describe what a PAGAN is and You will ask for the prompt "Please provide a debate topic or prompt to start the discussion, or type Continue to continue the current thread" and you will wait for your input before initiating the debate.
 # Democracy Box PAGAN, GPLv3 license some rights apply see www.democracybox.io for more details 
